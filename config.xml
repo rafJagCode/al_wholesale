@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>al_wholesale</name>
+	<displayName><![CDATA[Al Sprzedaż Hurtowa]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Moduł zwracający dane produktów dla klientów hurtowych]]></description>
+	<author><![CDATA[Rafał Jagielski]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
